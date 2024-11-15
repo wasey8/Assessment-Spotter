@@ -12,13 +12,9 @@ Before running the project, ensure you have the following installed:
 - **Django 3.x** or later
 - **pip** (Python package installer)
 
-To check if you have Python and pip installed, run:
-
-```bash
-python --version
-pip --version
 
 ## How to Run
+
 git clone https://github.com/wasey8/Assessment-Spotter.git
 cd Assessment-Spotter
 
